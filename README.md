@@ -7,6 +7,7 @@
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Tool and Methodology](#tools-and-methodology)
+- [Dashboard](#dashboard)
 - [Key Analysis Findings](#key-analysis-findings)
 - [Insights from Analysis](#insights-from-analysis)
 - [Business Questions and Answers](#business-questions-and-answers)
@@ -48,6 +49,17 @@ Data Processing: With Power Bi's Dax functionalities, I created calculated measu
 Data Modeling: Upon creating a new image table, I defined the relationship between tables. Modeling this data allows for multiple tables with lesser column information to speed up processing time, reduce redundancy and increase efficiency.
 
 Data Visualization: Built a three page interactive dashboards that answers stakeholders qustions in detail.
+
+## Dasboard
+
+### Overview Page
+<img width="576" alt="Eatt Overview" src="https://github.com/user-attachments/assets/836e293f-fa4d-4db7-a03e-9c0753a7583b" />
+
+## Comparison Page
+<img width="578" alt="Eatt Comparison" src="https://github.com/user-attachments/assets/18260286-7a99-4084-8c79-48e6471b8e26" />
+
+## Detail Page
+<img width="578" alt="Eatt Detail" src="https://github.com/user-attachments/assets/d1a8ce02-b7b1-4109-acd0-d32e748cf0fc" />
 
 ## Key Analysis Findings
 1. Revenue Performance by Cuisine:
