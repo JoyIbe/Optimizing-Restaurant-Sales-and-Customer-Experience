@@ -75,8 +75,8 @@ Data Visualization: Built a three page interactive dashboards that answers stake
    - Conversely, certain high-revenue restaurants have lower social media presence, suggesting the need for a balanced digital marketing strategy.
 
 4. Reservation Trends:
-   - Weekday reservations (244,641) slightly exceed weekend reservations (246,787), highlighting a strong demand on both days.
-   - Japanese and French cuisines attract the highest reservations, aligning with their revenue dominance.
+   - Weekday reservations exceeds weekend reservations.
+   - American and French cuisines attract the highest reservations, aligning with their revenue dominance.
    - Downtown locations generally have more reservations than suburban or rural areas.
 
 5. Service Quality & Customer Experience:
@@ -100,7 +100,7 @@ Data Visualization: Built a three page interactive dashboards that answers stake
    - Some cuisines receive disproportionate marketing budgets without matching revenue, suggesting inefficiencies.
 
 4. What trends exist in reservations?
-   - Weekday and weekend reservations are nearly equal, with Japanese and French cuisines leading in bookings.
+   - Weekday reservation is higher than weekend reservations, with American and French cuisines leading in bookings.
 
 5. Does parking availability impact sales?
    - Locations with limited parking may deter customers, affecting revenue and experience.
@@ -124,6 +124,7 @@ A major limitation of this analysis is the absence of a date column in the datas
 
 ## Link to Viz
 [Power BI Viz](https://app.powerbi.com/reportEmbed?reportId=03492c66-5942-46e6-a07b-0beeb5a07417&autoAuth=true&ctid=0801c8b7-f6a9-44a2-8891-282fd58fab33)
+
 ## Conclusion
 This analysis highlights key revenue drivers, marketing inefficiencies, customer behavior trends, and operational challenges. By aligning business strategies with data-driven insights, Eatt Restaurant can maximize profitability, enhance customer experience, and sustain long-term growth.
 
