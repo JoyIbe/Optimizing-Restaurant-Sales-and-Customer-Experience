@@ -50,7 +50,7 @@ Data Modeling: Upon creating a new image table, I defined the relationship betwe
 
 Data Visualization: Built a three page interactive dashboards that answers stakeholders qustions in detail.
 
-## Dasboard
+## Dashboard
 
 ### Overview Page
 <img width="576" alt="Eatt Overview" src="https://github.com/user-attachments/assets/836e293f-fa4d-4db7-a03e-9c0753a7583b" />
@@ -123,7 +123,7 @@ Data Visualization: Built a three page interactive dashboards that answers stake
 A major limitation of this analysis is the absence of a date column in the dataset. This hindered deeper analysis into the time-series trends of sales performance, making it difficult to assess seasonality, monthly trends, or the impact of specific events on revenue.
 
 ## Link to Viz
-
+[Power BI Viz](https://app.powerbi.com/reportEmbed?reportId=03492c66-5942-46e6-a07b-0beeb5a07417&autoAuth=true&ctid=0801c8b7-f6a9-44a2-8891-282fd58fab33)
 ## Conclusion
 This analysis highlights key revenue drivers, marketing inefficiencies, customer behavior trends, and operational challenges. By aligning business strategies with data-driven insights, Eatt Restaurant can maximize profitability, enhance customer experience, and sustain long-term growth.
 
