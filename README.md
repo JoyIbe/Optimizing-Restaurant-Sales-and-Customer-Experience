@@ -18,7 +18,7 @@
 - [Conclusion ](#conclusion)
 
 ## Overview
-Eatt Restaurant is a growing food business that operates multiple locations and offers diverse cuisines, ranging from American and Italian to Japanese and Mexican. With annual revenue of $5.49 billion and a marketing budget of $26.93 million, the restaurant chain aims to optimize sales performance, customer experience, and overall profitability. This analysis provides a data-driven assessment of revenue patterns, customer preferences, reservation trends, and operational efficiency.
+Eatt Restaurant is a growing food business that operates multiple locations and offers diverse cuisines, ranging from American and Italian to Japanese and Mexican. With a total revenue of $5.49 billion and a marketing budget of $26.93 million, the restaurant chain aims to optimize sales performance, customer experience, and overall profitability. This analysis provides a data-driven assessment of revenue patterns, customer preferences, reservation trends, and operational efficiency.
 
 ## Problem Statement
 Stakeholders, including restaurant managers, marketing teams, and investors, seek to address critical challenges such as:
