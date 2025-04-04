@@ -32,6 +32,8 @@ Stakeholders, including restaurant managers, marketing teams, and investors, see
 
 ### Tools: 
 
+Python: For initial Exploratory Data Analysis
+
 Figma: Used to create the dashboard wireframe
 
 Power Query: I used power query to perform key transformational steps. The dataset initially lacked images, which are essential for enhancing the visual appeal and interpretability of the dashboard. To fulfill this requirement, images were embedded into the dataset using Power Query. This approach ensured that the visualizations were more engaging and provided a clearer representation of key insights for stakeholder.
